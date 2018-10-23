@@ -1,0 +1,10 @@
+#!bin/bash
+$sum2=0
+
+# this is my comment
+for arg in $@
+do
+    sum2=$((arg+sum2))
+done
+echo $sum2
+
