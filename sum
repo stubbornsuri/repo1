@@ -1,6 +1,6 @@
 #!bin/bash
 $sum2=0
-
+# Author: Xinxin Wang
 # this is my comment
 for arg in $@
 do
